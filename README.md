@@ -1,4 +1,4 @@
-#Trabalho 3 - Variáveis Instrumentais
+## Trabalho 3 - Variáveis Instrumentais
 
 Assim como no trabalho 2, planejo utilizar esse repositório para acompanhar o progresso desse trabalho.
 
