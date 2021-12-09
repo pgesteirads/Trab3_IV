@@ -226,7 +226,7 @@ q9reg2 <- feols(horas ~  idade + idade_2 + educa + branco | d_tresfil ~ d_filcas
 q9reg3 <- feols(ln_sal_hr ~  idade + idade_2 + educa + branco | d_tresfil ~ d_filcas, data = filter(q4_8base, trab == 1), se = "hetero")
 
 
-teste <- summary(q9reg1)
+summary(q9reg1)
 
 summary(q9reg2)
 
